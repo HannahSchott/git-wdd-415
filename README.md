@@ -5,3 +5,4 @@ Wichtige Kommandos
 ------------------
 
 *  Commit
+* Ah noch was vergessen  
